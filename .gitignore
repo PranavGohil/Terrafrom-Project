@@ -8,6 +8,6 @@
 # Terraform directory
 .terraform/
 
-# IDE files
+# IDE/editor files
 .vscode/
 .idea/
