@@ -1,4 +1,4 @@
-# Coding Challenge – Anagram Checker & Terraform Deployment
+# Anagram Checker & Terraform Deployment
 
 ## Part 1: Python – Anagram Checker
 
